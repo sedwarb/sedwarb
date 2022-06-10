@@ -6,6 +6,13 @@
 
 JavaScript - React - Redux - NodeJs - Express - Sequelize - Html - Css - GitHup - Scrum - VisualBasic - C
 
+#### Contactame :boom: :punch:
+
+:email: Email: **sedwarb@gmail.com**
+
+:necktie: Linkedin: **https://www.linkedin.com/in/edwar-sebrian-8b3b59225/**
+
+
 <!--
 **sedwarb/sedwarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
