@@ -8,7 +8,28 @@ JavaScript - React - Redux - NodeJs - Express - Sequelize - Html - Css - GitHup 
 
 #### Acerca de Mi :smirk:
 
-Ingeniero en Informatica Apasionado en poder crear aplicaciones web interactivas e innovadoras que simplifiquen tareas solucionando problemas a los usuarios, permitiéndoles aumentar su productividad y eficiencia. Poseo destrezas en el manejo de herramientas para afrontar cualquier situación en las etapas de construcción de portales en línea
+Ingeniero en Informatica Apasionado en poder crear aplicaciones web interactivas e innovadoras que simplifiquen tareas solucionando problemas a los usuarios, permitiéndoles aumentar su productividad y eficiencia. Poseo destrezas en el manejo de herramientas para afrontar cualquier situación en las etapas de construcción de portales en línea.
+
+#### Proyectos :clipboard:
+
+- **PI-Pokemon-main:**
+  Aplicación en la cual se pueden ver los distintos Pokemon utilizando la api externa pokeapi y a partir de ella poder, entre otras cosas Buscar pokemons, Filtrarlos / Ordenarlos, Crear nuevos pokemons.
+  Tecnologías Usadas: React, Redux, Express, Sequelize-Postgres
+  
+- **Ecomerce Cursos Online**
+  Ecomerce de cursos online donde puedes:
+  
+  **Productos:** Listar, refinar por Categoria, buscar por nombre, ver detalles, gestionar stock, dejar reviews, crear y editar.
+  
+  **Categorias:** Buscar, crear y editar.
+  
+  **Carrito de Compras:** Agregar y eliminar productos, y luego comprarlos.
+  
+  **Checkout de Compra:** Enviar un email de confirmacion de compra, pagar por la pasarela de pagos mercadopago.
+  
+  **Ordenes de Compra:** Ver lista, detalles, cambiar estado, filtrar por estado.
+  
+  **Usuarios:** Crear, cambiar password, login en la aplicacion usando autenticacion. 
 
 #### Contactame :boom: :punch:
 
