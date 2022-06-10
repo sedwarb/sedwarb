@@ -8,7 +8,7 @@ JavaScript - React - Redux - NodeJs - Express - Sequelize - Html - Css - GitHup 
 
 #### Acerca de Mi :smirk:
 
-Me apasiona el hecho de poder crear aplicaciones web interactivas e innovadoras que simplifiquen tareas solucionando problemas a los usuarios, permitiéndoles aumentar su productividad y eficiencia. Poseer las destrezas en el manejo de herramientas para afrontar cualquier situación en las etapas de construcción de portales en línea y ser parte de un equipo que se plantee estrategias y objetivos que lo haga realidad.
+Ingeniero en Informatica Apasionado en poder crear aplicaciones web interactivas e innovadoras que simplifiquen tareas solucionando problemas a los usuarios, permitiéndoles aumentar su productividad y eficiencia. Poseo destrezas en el manejo de herramientas para afrontar cualquier situación en las etapas de construcción de portales en línea
 
 #### Contactame :boom: :punch:
 
