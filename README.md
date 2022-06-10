@@ -4,7 +4,11 @@
 
 ![fullStack](https://user-images.githubusercontent.com/88947428/173082698-97a9ff64-336f-48b1-8449-5c01947a7424.jpeg)
 
-JavaScript - React - Redux - NodeJs - Express - Sequelize - Html - Css - GitHup - Scrum - VisualBasic - C
+JavaScript - React - Redux - NodeJs - Express - Sequelize - Html - Css - GitHup - Scrum - VisualBasic - Lenguaje C - Trello - Visual Studio Code
+
+#### Acerca de Mi :smirk:
+
+Me apasiona el hecho de poder crear aplicaciones web interactivas e innovadoras que simplifiquen tareas solucionando problemas a los usuarios, permitiéndoles aumentar su productividad y eficiencia. Poseer las destrezas en el manejo de herramientas para afrontar cualquier situación en las etapas de construcción de portales en línea y ser parte de un equipo que se plantee estrategias y objetivos que lo haga realidad.
 
 #### Contactame :boom: :punch:
 
