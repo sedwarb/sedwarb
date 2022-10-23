@@ -4,7 +4,7 @@
 
 ![fullStack](https://user-images.githubusercontent.com/88947428/173082698-97a9ff64-336f-48b1-8449-5c01947a7424.jpeg)
 
-JavaScript - React - Redux - NodeJs - Express - Sequelize - Html - Css - GitHup - Scrum - VisualBasic - Lenguaje C - Trello - Visual Studio Code
+JavaScript - Python - React - Redux - NodeJs - Django - Express - Sequelize - Html - Css - GitHup - Scrum - VisualBasic - Lenguaje C - Trello - Visual Studio Code
 
 #### Acerca de Mi :smirk:
 
