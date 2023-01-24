@@ -12,10 +12,6 @@ Ingeniero en Informatica Apasionado en poder crear aplicaciones web interactivas
 
 #### Proyectos :clipboard:
 
-- **PI-Pokemon-main:**
-  Aplicación en la cual se pueden ver los distintos Pokemon utilizando la api externa pokeapi y a partir de ella poder, entre otras cosas Buscar pokemons, Filtrarlos / Ordenarlos, Crear nuevos pokemons.
-  Tecnologías Usadas: React, Redux, Express, Sequelize-Postgres
-  
 - **Ecomerce Cursos Online**
   Ecomerce de cursos online donde puedes:
   
@@ -30,6 +26,10 @@ Ingeniero en Informatica Apasionado en poder crear aplicaciones web interactivas
   **Ordenes de Compra:** Ver lista, detalles, cambiar estado, filtrar por estado.
   
   **Usuarios:** Crear, cambiar password, login en la aplicacion usando autenticacion. 
+  
+ - **PI-Pokemon-main:**
+  Aplicación en la cual se pueden ver los distintos Pokemon utilizando la api externa pokeapi y a partir de ella poder, entre otras cosas Buscar pokemons, Filtrarlos /   Ordenarlos, Crear nuevos pokemons.
+  Tecnologías Usadas: React, Redux, Express, Sequelize-Postgres
 
 #### Contactame :boom: :punch:
 
